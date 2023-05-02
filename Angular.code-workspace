@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Users\\obinn\\source\\repos\\Online_Voting_Sys\\OnlineVotingUI"
+		},
+		{
+			"path": "..\\..\\React\\staticapp"
+		},
+		{
+			"path": "..\\..\\React\\todo"
+		},
+		{
+			"path": "..\\..\\Projects\\DigitalResume"
+		},
+		{
+			"path": "..\\..\\Projects\\ObinnaPortfolio"
+		},
+		{
+			"path": "..\\..\\React\\statecrud"
+		},
+		{
+			"path": "..\\Todo"
+		},
+		{
+			"path": "..\\TodoList"
+		},
+		{
+			"path": "..\\UserCrud"
+		},
+		{
+			"path": "..\\ChildParentCommunication"
+		},
+		{
+			"path": "..\\TaskMan"
+		}
+	]
+}
